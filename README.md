@@ -45,6 +45,7 @@ Guides, tools, plugins and etc.
 
 ### Learning
 * [**Kotlin Koans**](https://play.kotlinlang.org/koans/overview) - Kotlin Koans is a series of exercises to get you familiar with the Kotlin syntax and some idioms
+* [**KEEP**](https://github.com/Kotlin/KEEP) - Kotlin Evolution and Enhancement Process
 * [**Codelabs**](https://codelabs.developers.google.com/?cat=Android) - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience
 * [**Samples**](https://developer.android.com/samples/index.html) - Android samples provided by Google
 * [**Medium**](https://medium.com) - Get smarter about what matters to you
@@ -61,6 +62,8 @@ Guides, tools, plugins and etc.
 * [**DB Browser for SQLite**](https://sqlitebrowser.org) - DB Browser for SQLite (DB4S) is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite
 * [**Gitignore**](https://www.gitignore.io/) - Create useful .gitignore files for your project
 * [**Insomnia Core**](https://insomnia.rest) - The Desktop API client for REST and GraphQL. Make requests, inspect responses
+* [**Kotlin Playground**](https://play.kotlinlang.org) - Kotlin Playground is an online sandbox to explore Kotlin
+programming language
 * [**Regexr**](https://regexr.com) - RegExr is an online tool to learn, build, & test Regular Expressions
 * [**Scrcpy**](https://github.com/Genymobile/scrcpy) - This application provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access
 * [**SQLite Syntax**](https://www.sqlite.org/syntax/sql-stmt.html) - sql-stmt CheatSheet
