@@ -75,6 +75,7 @@ programming language
 * [**Awesome Android**](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources
 * [**Android Libs**](https://github.com/XXApple/AndroidLibs) - A curated list of awesome Android UI/UX libraries
 * [**Android Ecosystem**](https://github.com/igorwojda/android-ecosystem-cheat-sheet) - Android Ecosystem Cheatsheet 2020
+* [**Backgroundable Android**](https://github.com/dirkam/backgroundable-android) - Collection of stock apps and mechanisms, which might affect background tasks and scheduled alarms
 
 ### Design
 * [**Material**](https://material.io/design) - Create intuitive and beautiful products with Material Design
