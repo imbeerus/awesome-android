@@ -29,7 +29,6 @@ Guides, tools, plugins and etc.
 - [**Markdown Navigator Enhanced**](https://plugins.jetbrains.com/plugin/7896-markdown-navigator-enhanced) - Markdown language support for IntelliJ platform
 - [**Mike's IDEA extensions**](https://plugins.jetbrains.com/plugin/12690-mike-s-idea-extensions) - Some great inspections, quickfixes, tools. Well, only inspections at the moment
 - [**Name That Color**](https://plugins.jetbrains.com/plugin/10422-name-that-color) - Name the color you have in your clipboard directly inside your color resource file in Android Studio
-- [**Protein**](https://plugins.jetbrains.com/plugin/10206-protein--kotlin-code-generator-for-retrofit2-and-rxjava2-based-on-swagger) - Protein is a code generator plugin for intelliJ that automates the build of components for Android. It generates Kotlin or Java code
 - [**String Manipulation**](https://plugins.jetbrains.com/plugin/2162-string-manipulation) - Provides actions for text manipulation
 
 ### Project-Setup
