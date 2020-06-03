@@ -31,8 +31,6 @@ Guides, tools, plugins and etc.
 - [**Name That Color**](https://plugins.jetbrains.com/plugin/10422-name-that-color) - Name the color you have in your clipboard directly inside your color resource file in Android Studio
 - [**Protein**](https://plugins.jetbrains.com/plugin/10206-protein--kotlin-code-generator-for-retrofit2-and-rxjava2-based-on-swagger) - Protein is a code generator plugin for intelliJ that automates the build of components for Android. It generates Kotlin or Java code
 - [**String Manipulation**](https://plugins.jetbrains.com/plugin/2162-string-manipulation) - Provides actions for text manipulation
-- [**TabNine**](https://plugins.jetbrains.com/plugin/12798-tabnine) - All-language autocompleter — TabNine uses machine learning to help you write code faster
-- [**Translation**](https://plugins.jetbrains.com/plugin/8579-translation) - A translation plugin
 
 ### Project-Setup
 - [**Gradle**](https://docs.gradle.org/current/userguide/userguide.html) - Gradle User Manual
