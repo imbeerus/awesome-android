@@ -61,9 +61,11 @@ Guides, tools, plugins and etc.
 * [**Insomnia Core**](https://insomnia.rest) - The Desktop API client for REST and GraphQL. Make requests, inspect responses
 * [**Kotlin Playground**](https://play.kotlinlang.org) - Kotlin Playground is an online sandbox to explore Kotlin
 programming language
+* [**Picsum**](https://picsum.photos) - The Lorem Ipsum for photos.
 * [**Regexr**](https://regexr.com) - RegExr is an online tool to learn, build, & test Regular Expressions
 * [**Scrcpy**](https://github.com/Genymobile/scrcpy) - This application provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access
 * [**SQLite Syntax**](https://www.sqlite.org/syntax/sql-stmt.html) - sql-stmt CheatSheet
+
 
 ### Repos
 * [**Awesome**](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
