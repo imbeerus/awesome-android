@@ -56,6 +56,7 @@ Guides, tools, plugins and etc.
 ### Tools
 * [**Android Arsenal**](https://android-arsenal.com) - Android developer portal with tools, libraries, and apps
 * [**Android Asset Studio**](https://romannurik.github.io/AndroidAssetStudio) - A collection of tools to easily generate assets such as launcher icons for your Android app
+* [**Charles**](https://www.charlesproxy.com) - Charles Web Debugging Proxy is a cross-platform HTTP debugging proxy server application written in Java
 * [**DB Browser for SQLite**](https://sqlitebrowser.org) - DB Browser for SQLite (DB4S) is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite
 * [**Gitignore**](https://www.gitignore.io/) - Create useful .gitignore files for your project
 * [**Insomnia Core**](https://insomnia.rest) - The Desktop API client for REST and GraphQL. Make requests, inspect responses
