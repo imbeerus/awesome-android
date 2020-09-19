@@ -64,6 +64,7 @@ Guides, tools, plugins and etc.
 * [**Kotlin Playground**](https://play.kotlinlang.org) - Kotlin Playground is an online sandbox to explore Kotlin
 programming language
 * [**KeyStore Explorer**](https://keystore-explorer.org/index.html) - KeyStore Explorer is an open source GUI replacement for the Java command-line utilities keytool and jarsigner.
+* [**Ohshitgit**](https://ohshitgit.com/en) - So here are some bad situations with git, and how to solve them
 * [**Picsum**](https://picsum.photos) - The Lorem Ipsum for photos.
 * [**Regexr**](https://regexr.com) - RegExr is an online tool to learn, build, & test Regular Expressions
 * [**Scrcpy**](https://github.com/Genymobile/scrcpy) - This application provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access
