@@ -75,6 +75,7 @@ programming language
 * [**Awesome**](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
 * [**Awesome Java**](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language
 * [**Awesome Kotlin**](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java
+* [**Awesome Android Kotlin Apps**](https://github.com/androiddevnotes/awesome-android-kotlin-apps) - A curated list of awesome android kotlin apps by open-source contributors.
 * [**Awesome Android**](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources
 * [**Android Libs**](https://github.com/XXApple/AndroidLibs) - A curated list of awesome Android UI/UX libraries
 * [**Android Ecosystem**](https://github.com/igorwojda/android-ecosystem-cheat-sheet) - Android Ecosystem Cheatsheet 2020
