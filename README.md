@@ -24,6 +24,7 @@ Guides, tools, plugins and etc.
 - [**Extra Icons**](https://plugins.jetbrains.com/plugin/11058-extra-icons) - Add icons for files like Travis YML, Appveyor YML, etc
 - [**Gradle Killer**](https://plugins.jetbrains.com/plugin/7794-gradle-killer) - This plugin kills Gradle tasks using the system task manager with just one click
 - [**Grazie**](https://plugins.jetbrains.com/plugin/12175-grazie) - Provides intelligent spelling and grammar checks for text that you write in the IDE
+- [**Ktfmt​**](https://plugins.jetbrains.com/plugin/14912-ktfmt) - Program that reformats Kotlin source code to comply with the common community standard for Kotlin code conventions.
 - [**Kotlin Fill Class​**](https://plugins.jetbrains.com/plugin/10942-kotlin-fill-class) - Intellij plugin that provide intention action for empty constructor or function to fill property with default value
 - [**JSON To Kotlin Class ​(JsonToKotlinClass)​**](https://plugins.jetbrains.com/plugin/9960-json-to-kotlin-class-jsontokotlinclass-) - Plugin for Kotlin to convert Json String into Kotlin data class code quickly
 - [**Markdown Navigator Enhanced**](https://plugins.jetbrains.com/plugin/7896-markdown-navigator-enhanced) - Markdown language support for IntelliJ platform
