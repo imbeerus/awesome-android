@@ -60,6 +60,7 @@ Guides, tools, plugins and etc.
 * [**Android Code Search**](https://cs.android.com) - A public code search tool for exploring code without downloading the source
 * [**Charles**](https://www.charlesproxy.com) - Charles Web Debugging Proxy is a cross-platform HTTP debugging proxy server application written in Java
 * [**DB Browser for SQLite**](https://sqlitebrowser.org) - DB Browser for SQLite (DB4S) is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite
+* [**Dependency Analysis Gradle Plugin**](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin) - Gradle plugin for Java, Kotlin, and Android projects. Provides advice for managing dependencies and other applied plugins
 * [**Gitignore**](https://www.gitignore.io/) - Create useful .gitignore files for your project
 * [**Insomnia Core**](https://insomnia.rest) - The Desktop API client for REST and GraphQL. Make requests, inspect responses
 * [**Kotlin Playground**](https://play.kotlinlang.org) - Kotlin Playground is an online sandbox to explore Kotlin
